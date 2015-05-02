@@ -1,0 +1,14 @@
+Winning percentage of one team : numeric
+Winning percentage of the opposing team : numeric
+Weather : nominal
+Temperature: numeric
+# of injured players on one team: numeric
+# of injured players on the other team: numeric
+Starting pitcher: nominal
+Opposing starting pitcher: nominal
+Days since one team’s last game: numeric
+Days since the other team’s last game: numeric
+Whether it’s a home or away game (for the first team): nominal
+Run differential for first team: numeric
+Run differential for second team: numeric
+Winner : binary (0 or 1)
